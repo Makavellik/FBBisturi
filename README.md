@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=FBBisturi&fontSize=48&fontColor=00FFFF&animation=twinkle&color=0,10,20,30,40,50" />
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=OBSERVING+NETWORK+SIGNALS...;CORRELATING+DOMAIN+DATA...;BACKEND+FINGERPRINTING...;SECURE+FORENSIC+MODE+ACTIVE" />
 </p>
 <p align="center">
